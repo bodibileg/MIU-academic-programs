@@ -1,4 +1,4 @@
-# MIU-academic-programs
+# MIU Academic Programs
 
 Welcome to the MIU academic program App! This application is designed to help students easily browse and explore university courses. Built using Jetpack Compose, it offers a modern, responsive, and intuitive user interface.
 
